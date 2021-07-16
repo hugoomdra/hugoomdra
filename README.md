@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a apprentice computer engineer from France. I study at ESEO Angers and i work for Groupe Rhinos at La Rochelle.
+I am a apprentice computer engineer from France. I study at [ESEO Angers](https://eseo.fr/) and i work for [Groupe Rhinos](https://www.groupe-rhinos.com/) at La Rochelle.
 
 <!--
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
